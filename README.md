@@ -1,2 +1,2 @@
 # git-tags-test
-Push 1
+Push 2
